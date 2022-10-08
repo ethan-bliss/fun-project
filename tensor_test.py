@@ -1,3 +1,5 @@
+# just doing some stuff with tensorflow :)
+
 import tensorflow as tf
 import numpy as np
 
